@@ -1,0 +1,10 @@
+node_modeules/
+.DS_Store
+dist/
+.vscode/
+log/
+report/
+results/
+cypress/videos
+cypress/screenshot
+.idea/

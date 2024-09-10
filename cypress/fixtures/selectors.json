@@ -1,0 +1,5 @@
+{
+  "iframeDemo": "#__next > div > section.mb-50 > div > ul > li:nth-child(19) > a",
+  "iFrame": "#iFrame1",
+  "textField": ".rsw-ce"
+}
