@@ -2,6 +2,7 @@ const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
   e2e: {
+    baseUrl: 'https://www.lambdatest.com/selenium-playground/',
     viewportWidth: 900,
     viewportHeight: 1680,
     chromeWebSecurity: false,
