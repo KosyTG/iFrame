@@ -3,7 +3,7 @@ node_modules/
 dist/
 .vscode/
 log/
-report/
+cypress/report/
 results/
 cypress/videos
 cypress/screenshot
